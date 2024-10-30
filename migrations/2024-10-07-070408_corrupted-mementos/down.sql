@@ -1,0 +1,1 @@
+DROP TABLE corrupted_mementos
